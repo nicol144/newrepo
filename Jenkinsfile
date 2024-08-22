@@ -1,3 +1,4 @@
+#Should be present in remote server /new directory
 pipeline {
   agent any
 
